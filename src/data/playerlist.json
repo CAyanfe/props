@@ -1,0 +1,42 @@
+{
+  "homecards": [
+    {
+      "id": 1,
+      "name": "Lionel Andrés Messi",
+      "team": "Inter Miami",
+      "nationality": "Argentinian",
+      "jerseyNumber": 10,
+      "age": 36,
+      "imageUrl": "./images/Messi.jpg"
+    },
+
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "team": "Al Nassr FC",
+      "nationality": "Portugal",
+      "jerseyNumber": 7,
+      "age": 38,
+      "imageUrl": "./images/cR.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": "Alexis Sánchez",
+      "team": "Inter Miami",
+      "nationality": "Argentinian",
+      "jerseyNumber": 70,
+      "age": 35,
+      "imageUrl": "./images/sA.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pedro Eliezer Rodríguez",
+      "team": "Lazio",
+      "nationality": "Spain",
+      "jerseyNumber": 9,
+      "age": 36,
+      "imageUrl": "./images/pedro.jpg"
+    }
+  ]
+}
